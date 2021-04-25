@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="cubes_game">
+    <file>squers_game.jpg</file>
+  </qresource>
+</RCC>
